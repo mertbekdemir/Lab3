@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Planet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Planet\ here.\r\n\r\n\ @author\ Monika\ Szucs\r\n\ @version\ September\ 23,\ 2018\r\n\ \r\n\ This\ is\ the\ Planet\ class.\r\n\ \r\n
+comment1.params=theName\ theInnerPlanet\ theAstronomicalUnitsFromSun\ theEarthMasses
+comment1.target=Planet(java.lang.String,\ boolean,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Planet.\r\n\ \r\n\ @param\ theName\ is\ the\ name\ of\ the\ Planet\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=boolean\ getInnerPlanet()
+comment4.params=
+comment4.target=double\ getAstronomicalUnitsFromSun()
+comment5.params=
+comment5.target=double\ getEarthMasses()
+comment6.params=
+comment6.target=java.lang.Boolean\ isSimilarToEarth()
+comment7.params=
+comment7.target=java.lang.String\ getPlanetaryData()
+numComments=8
